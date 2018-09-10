@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ### Bio 
 **Chao Chen** Candidate Ph.D in Zhejiang University of China.
 ### Research interests. 
