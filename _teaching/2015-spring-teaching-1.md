@@ -2,7 +2,7 @@
 title: "News"
 collection: news
 type: "paper submission"
-permalink: /news/2018/0910
+permalink: /teaching/2015-spring-teaching-1
 venue: "Zhejiang University, Hangzhou, China"
 date: 2018-09-010
 location: "City, Country"
