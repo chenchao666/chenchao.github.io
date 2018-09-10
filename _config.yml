@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcom to my Home Page !"
+title                    : "Welcome to My Home Page !"
 title_separator          : "-"
 name                     : &name "Chao Chen"
 description              : &description "PhD Candidate in Zhejiang University of China"
