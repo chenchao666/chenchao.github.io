@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2019-09-10
+excerpt: 'This paper is about the deep domain adaptation.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: 'AAAI 2019'
+paperurl: 'https://arxiv.org/abs/1808.09347'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/abs/1808.09347)
