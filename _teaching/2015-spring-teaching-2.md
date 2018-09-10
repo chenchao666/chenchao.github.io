@@ -1,10 +1,10 @@
 ---
-title: "News 2018-09-10"
-collection: teaching
+title: "News"
+collection: news
 type: "news"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Zhejiang University, Hangzhou China"
-date: 2015-01-01
+date: 2018-09-10
 location: "City, Country"
 ---
 
