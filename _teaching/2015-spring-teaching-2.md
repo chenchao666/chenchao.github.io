@@ -1,6 +1,6 @@
 ---
 title: "News 2018-09-10"
-collection: news
+collection: teaching
 type: "news"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Zhejiang University, Hangzhou China"
