@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /connect_me/
 title: "Contact with Me"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /connect_me.html
 ---
 
 
