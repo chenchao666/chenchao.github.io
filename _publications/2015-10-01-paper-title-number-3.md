@@ -1,3 +1,14 @@
+---
+title: "Paper Title Number 2"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2018-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+
 ### All Publications （Contain submitted but unpublished papers）
 * **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation,” Submitted to AAAI 2019. [paper](https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master)
 * Boyuan Jiang, **Chao Chen**, Zhihong Chen, Xinyu Jin “An I2I-CBIR method for Unsupervised Domain Adaptation,” submitted to AAAI 2019.
