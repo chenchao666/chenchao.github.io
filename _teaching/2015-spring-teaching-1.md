@@ -4,7 +4,7 @@ collection: news
 type: "paper submission"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Zhejiang University, Hangzhou, China"
-date: 2018-09-010
+date: 2018-09-10
 location: "City, Country"
 ---
 
