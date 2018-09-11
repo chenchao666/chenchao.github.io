@@ -39,7 +39,7 @@ the common subspace,” Neural Computing and Applications (Major Revision)
   - Familiar with most statistical machine learning/signal processing algorithms/techqiues. 
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
 
-## <span style="color: green"> Honors & Awards </span>
+## <span style="color: green"> Honors & Awards </span>(selected)
 *  &nbsp; &nbsp; **Full** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship (selected 57 from all doctoral freshmen)
 * **Summer** 2016 &nbsp; Top 10 outstanding undergraduate student in School of Electronic Information Engineering, Anhui University (selected Top 10 students from 500)
 * **Summer** 2016 &nbsp; Outstanding undergraduate studen in Anhui Province
