@@ -15,10 +15,10 @@ redirect_from:
 My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications in Computer Vision. Currently, I am working on Domain Adaptation and their applications to computer vision (semantic segmentation, object detection, etc.).
 
 ## <span style="color: green"> Education </span>
-* **Sep 2016 - now:** PhD Candidate in Zhejiang University (ZJU), Hangzhou, China
+* **Sep 2016 - now:** **PhD Candidate** in Zhejiang University (ZJU), Hangzhou, China
   - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
   - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
-* **Sep 2012 - Jun 2016:** Bachelor of Engineering Anhui University (AHU), Hefei, China
+* **Sep 2012 - Jun 2016:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
   - **Major:**  Internest of Things Engineering
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
@@ -44,7 +44,7 @@ the common subspace,” Neural Computing and Applications (Major Revision)
 * **Summer** 2016 &nbsp; Top 10 outstanding undergraduate student in School of Electronic Information Engineering, Anhui University (selected Top 10 students from 500)
 * **Summer** 2016 &nbsp; Outstanding undergraduate studen in Anhui Province
 * **Summer** 2016 &nbsp; Outstanding undergraduate studen of Anhui University 
-* &nbsp; **Spring** 2015 &nbsp; Frist Prize of International Mathematical Modeling Competition 
+* &nbsp; **Spring** 2015 &nbsp; &nbsp; Frist Prize of International Mathematical Modeling Competition 
 *  &nbsp; &nbsp; **Full** 2014  &nbsp; &nbsp; &nbsp; Excellent Student Scholarship (Top 2 from 58)
 *  &nbsp; &nbsp; **Full** 2013  &nbsp; &nbsp; &nbsp; National Scholarship for UnderGraduate Students (<1%)
 
