@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-### <span style="color: Blue"> Bio </span>
+### <span style="color: green"> Bio </span>
 **Chao Chen** Candidate Ph.D in Zhejiang University of China.
 ## Research Interests 
 My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications in Computer Vision. Currently, I am working on Domain Adaptation and their applications to computer vision (semantic segmentation, object detection, etc.).
 
-## Education
+## <span style="color: green"> Education </span>
 * **Sep 2016 - now:** PhD Candidate in Zhejiang University (ZJU), Hangzhou, China
   - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
   - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
