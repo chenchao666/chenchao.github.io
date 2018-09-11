@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Another school season ！"
 collection: news
 type: "news"
 permalink: /news/2018-09-11
