@@ -124,7 +124,6 @@ include:
   - _pages
   - files
 exclude:
-  - "assets"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
