@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-09-10-ELM
 excerpt: 'accepted by Neural Processing Letters (SCI,IF=1.72).'
 date: 2018-09-10
-venue: 'Zhejiang University, Hangzhou, China'
+venue: 'Neural Processing Letters'
 paperurl: 'https://link.springer.com/article/10.1007/s11063-018-9869-6'
 citation: 'Chen C, Jin X, Jiang B, et al. Optimizing Extreme Learning Machine via Generalized Hebbian Learning and Intrinsic Plasticity Learning[J]. Neural Processing Letters, 2018: 1-17.'
 ---
