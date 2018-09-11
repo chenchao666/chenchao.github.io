@@ -2,11 +2,11 @@
 title: "News"
 collection: news
 type: "news"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /news/2018-09-11
 venue: "Zhejiang University, Hangzhou China"
-date: 2018-09-10
+date: 2018-09-11
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Ten postgraduate freshman join our lab, welcome ！
 
