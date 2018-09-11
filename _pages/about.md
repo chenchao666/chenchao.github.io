@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* <span style="color: green"> Bio. </span> **Chao Chen** Candidate Ph.D in Zhejiang University of China.
+### <span style="color: green"> Bio. </span> 
+**Chao Chen** Candidate Ph.D in Zhejiang University of China.
 
 ## <span style="color: green"> Research Interests </span>
 My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications in Computer Vision. Currently, I am working on Domain Adaptation and their applications to computer vision (semantic segmentation, object detection, etc.).
@@ -39,6 +40,11 @@ the common subspace,” Neural Computing and Applications (Major Revision)
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
 
 ## <span style="color: green"> Honors & Awards </span>
+* **summer** 2016 &nbsp; Top 10 outstanding undergraduate student in School of Electronic Information Engineering, Anhui University (Top 10 from 500)
+* **Summer** 2016 &nbsp; Outstanding undergraduate studen in Anhui Province
+* **Summer** 2016 &nbsp; Outstanding undergraduate studen of Anhui University 
+* **Full** 2014 &nbsp; Excellent Student Scholarship （Top 2 from 58）
+* **Full** 2013 &nbsp; National Scholarship for UnderGraduate Students (<1%)
 
 
 
