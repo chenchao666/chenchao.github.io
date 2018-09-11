@@ -40,12 +40,12 @@ the common subspace,” Neural Computing and Applications (Major Revision)
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
 
 ## <span style="color: green"> Honors & Awards </span>(selected)
-*  &nbsp; &nbsp; **Full** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship (selected 57 from all doctoral freshmen)
-* **Summer** 2016 &nbsp; Top 10 outstanding undergraduate student in School of Electronic Information Engineering, Anhui University (selected Top 10 students from 500)
+*  &nbsp; &nbsp; **Full** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship (select 57 from all doctoral freshmen)
+* **Summer** 2016 &nbsp; Top 10 outstanding undergraduate student in School of Electronic Information Engineering, Anhui University (select Top 10 from 500)
 * **Summer** 2016 &nbsp; Outstanding graduate student of Anhui Province (<3%)
 * **Summer** 2016 &nbsp; Excellent graduate student of Anhui University 
 * &nbsp; **Spring** 2015 &nbsp; &nbsp; Frist Prize of International Mathematical Modeling Competition 
-*  &nbsp; &nbsp; **Full** 2014  &nbsp; &nbsp; &nbsp; Excellent Student Scholarship (Top 2 from 58)
+*  &nbsp; &nbsp; **Full** 2014  &nbsp; &nbsp; &nbsp; Excellent Student Scholarship (select Top 2 from 58)
 *  &nbsp; &nbsp; **Full** 2013  &nbsp; &nbsp; &nbsp; National Scholarship for Undergraduate Students (<1%)
 
 
