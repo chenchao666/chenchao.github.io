@@ -6,6 +6,6 @@ excerpt: 'submitted to AAAI 2019.'
 date: 2018-09-11
 venue: 'AAAI2019 (submiteed)'
 paperurl: 'https://arxiv.org/abs/1808.09347'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Chen C, Chen Z, Jiang B, et al. Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation\[J\]. arXiv preprint arXiv:1808.09347, 2018.'
 ---
 
