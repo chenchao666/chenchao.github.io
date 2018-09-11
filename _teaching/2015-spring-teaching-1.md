@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Paper Submission"
 collection: news
 type: "paper submission"
 permalink: /teaching/2015-spring-teaching-1
