@@ -7,6 +7,6 @@ redirect_from:
   - /contact_me.html
 ---
 
-** **Contact**
+**Contact**
 * **Email:** chench@zju.edu.cn, zjuchaoc@gmail.com
 * **Tel:** (+86) 15268581240
